@@ -32,16 +32,6 @@ h1{
   display: inline;
 }
 
-/*
-button{
-  height: 60px;
-  width: 10%;
-  background-color: blue;
-  border: 1px solid #222;
-  display: inline;
-}
-*/
-
 h3{
   font-size: 1.2em;
   font-family: sans-serif;
@@ -57,6 +47,7 @@ h3{
   overflow: hidden;
   padding: 10px 10px;
   margin-left: 0px;
+  margin-bottom: 10px;
 }
 
 a {
